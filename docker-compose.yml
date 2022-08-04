@@ -19,6 +19,7 @@ services:
       context: .
       dockerfile: Dockerfile
       target: builder
+    command: ["npm", "run", "dev"]
     depends_on:
       - db
     env_file:
