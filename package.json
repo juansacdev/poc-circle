@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.ts",
   "engines": {
-    "node": "16.13.0"
+    "node": "18"
   },
   "scripts": {
     "start": "NODE_ENV=production dist/index.js",
