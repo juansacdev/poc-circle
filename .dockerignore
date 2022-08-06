@@ -9,6 +9,8 @@ test/
 .nvmrc
 .vscode/
 .git/
+.yaml
+.yml
 Dockerfile*
 docker-compose*.yml
 *.eslint*
