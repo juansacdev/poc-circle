@@ -22,7 +22,6 @@
     "prettier/prettier": "error",
     "no-empty": "error",
     "no-multiple-empty-lines": "error",
-    "no-magic-numbers": "error",
     "no-inline-comments": "error",
     "no-mixed-spaces-and-tabs": "error",
     "no-multi-spaces": "error",
